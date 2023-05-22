@@ -5,4 +5,4 @@
 
 *Comando git pull
 
-*Comando git fat
+*Comando git fatch
